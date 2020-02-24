@@ -1,2 +1,0 @@
-# Breizh
-test objet connecté
